@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41379'
     url: http://www.gutenberg.org/2009/agents/41379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41809#Byron--The-Last-Phase
 gutenberg_issued: '2013-01-10'
 gutenberg_type: Text
 identifiers:
